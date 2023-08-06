@@ -4,8 +4,8 @@ An 8bit ALU implement using XILINX ISE.
 It has 2 8bit inputs,3bit opcode and 1 8bits output.
 5 Status flags-carry,zero,sign,parity,overflow.
 
-Opcode --- Functionality
-000    --- Addition
+Opcode --- Functionality/
+000    --- Addition/n
 001    --- Subtraction
 010    --- Bitwise AND
 011    --- Bitwise OR
