@@ -1,4 +1,4 @@
-# Verilog-Projects
+# ALU 8-bit
 
 An 8bit ALU implement using XILINX ISE.
 It has 2 8bit inputs,3bit opcode and 1 8bits output.
